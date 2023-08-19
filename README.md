@@ -20,7 +20,7 @@ I'm a recent graduate with a degree in [Btech in Mechanical Engineering] and a s
 
 I'm passionate about creating user-friendly and visually appealing web applications. I'm currently focusing on building a strong foundation in:
 
-- HTML, CSS, JavaScript, React.
+- HTML, CSS, JavaScript and React.
 - Responsive design principles.
 - Introduction to [React] for frontend development.
 
