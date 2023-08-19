@@ -9,7 +9,7 @@ React Calculator is a simple calculator web application built using React. This 
 # Hi, I'm Er Mandeep Jangra! 👋
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, React...
 
 ## 🚀 About Me
 ## 👋 Hello, I'm [Er Mandeep Jangra]!
@@ -20,7 +20,7 @@ I'm a recent graduate with a degree in [Btech in Mechanical Engineering] and a s
 
 I'm passionate about creating user-friendly and visually appealing web applications. I'm currently focusing on building a strong foundation in:
 
-- HTML, CSS, and JavaScript.
+- HTML, CSS, JavaScript, React.
 - Responsive design principles.
 - Introduction to [React] for frontend development.
 
